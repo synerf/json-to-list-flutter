@@ -1,10 +1,7 @@
 # json_to_list_flutter
 
-A new Flutter project.
+Flutter project to demonstrate fetching data from API and displaying it in a ListView in Flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
